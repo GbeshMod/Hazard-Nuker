@@ -41,7 +41,7 @@ code ✅
 * ` Webhook destroyer`
 
 <p align="center">
- <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/895403117301084161/898926072014458960/unknown.png" width="45%">
+ <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/905814376043401249/906997500412567642/unknown.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
  <img alt="HazardNukerUpdate" src="https://cdn.discordapp.com/attachments/853347983639052318/863399932240855060/unknown.png" width="45%">
 </p>
